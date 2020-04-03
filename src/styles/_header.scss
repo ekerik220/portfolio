@@ -1,0 +1,43 @@
+.header {
+    @include flexCenter(row);
+    background-color: $headerBackground;
+
+    h4 {
+        font-size: 2rem;
+        margin: 0.7rem 0;
+    }
+    
+    h5 {
+        font-size: 1.4rem;
+        margin: 0;
+    }
+
+    .header__content-box {
+        @include flexCenter(row);
+        margin: 3rem 0;
+    }
+    
+    .header__portrait {
+        max-width: 10rem;
+        border: 0.3rem solid white;
+        border-radius: 50%;
+        margin: auto 2.5rem auto 0;
+        box-shadow: 0.2rem 0.1rem rgba(0, 0, 0, 0.3);
+    }
+
+    .header__icons {
+        display: flex;
+        justify-content: space-around;
+        margin-top: 1rem;
+    }
+
+    i {
+        color: $iconColor;
+        font-size: 2.5rem;
+        transition: 0.3s all;
+    }
+
+    i:hover {
+        color: $iconHoverColor;
+    }
+}

@@ -1,0 +1,29 @@
+.technologies {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    hr {
+        width: 75%;
+    }
+
+    .technologies__icon-container {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+
+        @media (max-width: 22em) {
+            grid-template-columns: repeat(2, 1fr);
+        }
+    }
+
+    .technologies__icon {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        margin: 1rem 1rem;
+
+        i {
+            margin-bottom: 0.5rem;
+        }
+    }
+}

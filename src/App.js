@@ -1,11 +1,13 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import './styles/styles.css';
+import Header from "./Components/Header";
+import Technologies from './Components/Technologies';
 
 function App() {
   return (
     <div className="App">
-      
+      <Header />
+      <Technologies />
     </div>
   );
 }
