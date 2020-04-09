@@ -2,6 +2,8 @@
 @import "./mixins";
 @import "./header";
 @import "./technologies";
+@import "./projects";
+@import "./project-tile";
 
 @include remScale();
 
@@ -11,6 +13,7 @@
 
 body {
     font-family: $primaryFont;
+    background:$mainBackground;
 }
 
 .faded-text {

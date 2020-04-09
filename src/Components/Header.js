@@ -15,13 +15,13 @@ export default function Header() {
           </h4>
           <h5 className="faded-text">Software engineer</h5>
           <div className="header__icons">
-            <a href="#">
+            <a href="https://github.com/ekerik220" target="_blank">
               <i className="fab fa-github"></i>
             </a>
             <a href="#">
               <i className="fab fa-linkedin-in"></i>
             </a>
-            <a href="#">
+            <a href="mailto:ekerik220@gmail.com" target="_top">
                 <i className="far fa-envelope"></i>
             </a>
           </div>
