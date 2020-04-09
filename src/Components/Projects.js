@@ -9,18 +9,18 @@ export default function Projects() {
         <hr className="faded-text"></hr>
       </div>
       <ProjectTile
-        img={require("../imgs/first-trend-preview.png")}
-        title="First Trend"
-        text="A personal project I made to learn React Hooks and Redux. It's a section of a mock shopping website. You can filter clothing by type, color, size, and price, and add them to the cart."
-        link="https://ekerik220.github.io/First-Trend-Clothing/"
-        source="https://github.com/ekerik220/First-Trend-Clothing"
-      />
-      <ProjectTile
         img={require("../imgs/recipe-finder-preview.png")}
         title="Recipe Finder"
         text="A personal project I made to get my hands wet with React Router, React Bootstrap, and get a bit more familiar with APIs. Simply use the search bar to search for recipes and select the one you're interested in. The application will display an ingredient list, nutrition info, and a link to the preparation instructions for the recipe."
         link="https://ekerik220.github.io/recipe-search/"
         source="https://github.com/ekerik220/recipe-search"
+      />
+      <ProjectTile
+        img={require("../imgs/first-trend-preview.png")}
+        title="First Trend"
+        text="A personal project I made to learn React Hooks and Redux. It's a section of a mock shopping website. You can filter clothing by type, color, size, and price, and add them to the cart."
+        link="https://ekerik220.github.io/First-Trend-Clothing/"
+        source="https://github.com/ekerik220/First-Trend-Clothing"
       />
       <ProjectTile
         img={require("../imgs/weather-preview.png")}
