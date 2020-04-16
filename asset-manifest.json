@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.229c8449.chunk.css",
+    "main.js": "/portfolio/static/js/main.93ed4d25.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.93ed4d25.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.b37861ed.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.b37861ed.js.map",
+    "static/js/2.f7721e74.chunk.js": "/portfolio/static/js/2.f7721e74.chunk.js",
+    "static/js/2.f7721e74.chunk.js.map": "/portfolio/static/js/2.f7721e74.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.9ed0acfddc46782b00b123c8bcc762d2.js": "/portfolio/precache-manifest.9ed0acfddc46782b00b123c8bcc762d2.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.229c8449.chunk.css.map": "/portfolio/static/css/main.229c8449.chunk.css.map",
+    "static/js/2.f7721e74.chunk.js.LICENSE.txt": "/portfolio/static/js/2.f7721e74.chunk.js.LICENSE.txt",
+    "static/media/calculator-preview.png": "/portfolio/static/media/calculator-preview.837b4f34.png",
+    "static/media/first-trend-preview.png": "/portfolio/static/media/first-trend-preview.a3487d3f.png",
+    "static/media/portrait.jpg": "/portfolio/static/media/portrait.c39f33b0.jpg",
+    "static/media/recipe-finder-preview.png": "/portfolio/static/media/recipe-finder-preview.06dcbe5f.png",
+    "static/media/weather-preview.png": "/portfolio/static/media/weather-preview.24b249d4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b37861ed.js",
+    "static/js/2.f7721e74.chunk.js",
+    "static/css/main.229c8449.chunk.css",
+    "static/js/main.93ed4d25.chunk.js"
+  ]
+}
