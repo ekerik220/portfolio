@@ -18,8 +18,11 @@ export default function Header() {
             <a href="https://github.com/ekerik220" target="_blank">
               <i className="fab fa-github"></i>
             </a>
+            <a href="https://www.linkedin.com/in/evan-kerik/" target="_blank">
+              <i className="fab fa-linkedin"></i>
+            </a>
             <a href="mailto:ekerik220@gmail.com" target="_top">
-                <i className="far fa-envelope"></i>
+              <i className="far fa-envelope"></i>
             </a>
           </div>
         </div>

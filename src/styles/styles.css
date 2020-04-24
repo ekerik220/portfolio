@@ -83,6 +83,16 @@
           align-items: center;
 }
 
+.technologies .redux-icon {
+  background: url("https://api.iconify.design/logos-redux.svg") no-repeat center center/contain;
+  width: 4.8rem;
+  height: 4.8rem;
+  margin-bottom: 0.5rem;
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
+}
+
 .technologies hr {
   width: 75%;
 }
