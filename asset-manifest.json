@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.66def72b.chunk.css",
-    "main.js": "/portfolio/static/js/main.a13e0905.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.a13e0905.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.944ca523.chunk.css",
+    "main.js": "/portfolio/static/js/main.c660b068.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.c660b068.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.b37861ed.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.b37861ed.js.map",
     "static/js/2.f7721e74.chunk.js": "/portfolio/static/js/2.f7721e74.chunk.js",
     "static/js/2.f7721e74.chunk.js.map": "/portfolio/static/js/2.f7721e74.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.9b5176ca2148376fc68998c93cbada83.js": "/portfolio/precache-manifest.9b5176ca2148376fc68998c93cbada83.js",
+    "precache-manifest.a725c84b53d6c435b9693b83a346232a.js": "/portfolio/precache-manifest.a725c84b53d6c435b9693b83a346232a.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.66def72b.chunk.css.map": "/portfolio/static/css/main.66def72b.chunk.css.map",
+    "static/css/main.944ca523.chunk.css.map": "/portfolio/static/css/main.944ca523.chunk.css.map",
     "static/js/2.f7721e74.chunk.js.LICENSE.txt": "/portfolio/static/js/2.f7721e74.chunk.js.LICENSE.txt",
-    "static/media/calculator-preview.png": "/portfolio/static/media/calculator-preview.837b4f34.png",
-    "static/media/first-trend-preview.png": "/portfolio/static/media/first-trend-preview.a3487d3f.png",
-    "static/media/portrait.jpg": "/portfolio/static/media/portrait.c39f33b0.jpg",
-    "static/media/recipe-finder-preview.png": "/portfolio/static/media/recipe-finder-preview.06dcbe5f.png",
-    "static/media/weather-preview.png": "/portfolio/static/media/weather-preview.24b249d4.png"
+    "static/media/acnh-tracker.mp4": "/portfolio/static/media/acnh-tracker.8591a83f.mp4",
+    "static/media/calculator-preview.png": "/portfolio/static/media/calculator-preview.93eaf5c7.png",
+    "static/media/first-trend-preview.png": "/portfolio/static/media/first-trend-preview.a95ee2ab.png",
+    "static/media/portrait.jpg": "/portfolio/static/media/portrait.0d2b582c.jpg",
+    "static/media/recipe-finder-preview.png": "/portfolio/static/media/recipe-finder-preview.f9f61048.png",
+    "static/media/weather-preview.png": "/portfolio/static/media/weather-preview.d16f548d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b37861ed.js",
     "static/js/2.f7721e74.chunk.js",
-    "static/css/main.66def72b.chunk.css",
-    "static/js/main.a13e0905.chunk.js"
+    "static/css/main.944ca523.chunk.css",
+    "static/js/main.c660b068.chunk.js"
   ]
 }
