@@ -9,6 +9,13 @@ export default function Projects() {
         <hr className="faded-text"></hr>
       </div>
       <ProjectTile
+        video={require("../imgs/acnh-tracker.mp4")}
+        title="ACNH Tracker"
+        text="Animal Crossing New Horizons catalogue tracking application. Made with React, Redux, Express, MongoDB, and Node.js. You can login and save items that you own or want, view lists and statistics about your catalogue, and compare your catalogue with other users to see what you can offer each other at a catalogue party!"
+        link="http://www.acnh-tracker.net/"
+        source="https://github.com/ekerik220/acnh-tracker-front"
+      />
+      <ProjectTile
         img={require("../imgs/recipe-finder-preview.png")}
         title="Recipe Finder"
         text="A personal project I made to get my hands wet with React Router, React Bootstrap, and get a bit more familiar with APIs. Simply use the search bar to search for recipes and select the one you're interested in. The application will display an ingredient list, nutrition info, and a link to the preparation instructions for the recipe."
