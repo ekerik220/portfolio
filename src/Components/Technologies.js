@@ -46,6 +46,14 @@ export default function Technologies() {
           <i className="fab fa-github fa-3x"></i>
           <span className="faded-text">Github</span>
         </div>
+        <div className="technologies__icon">
+          <i class="fab fa-node fa-3x"></i>
+          <span className="faded-text">Node.js</span>
+        </div>
+        <div className="technologies__icon">
+          <div className="mongodb-icon"></div>
+          <span className="faded-text">MongoDB</span>
+        </div>
       </div>
     </section>
   );
