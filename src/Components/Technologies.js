@@ -32,11 +32,8 @@ export default function Technologies() {
           <span className="faded-text">Redux</span>
         </div>
         <div className="technologies__icon">
-          <i
-            className="fab fa-bootstrap fa-3x"
-            style={{ color: "#563d7c" }}
-          ></i>
-          <span className="faded-text">Bootstrap</span>
+          <div className="ts-icon"></div>
+          <span className="faded-text">TypeScript</span>
         </div>
         <div className="technologies__icon">
           <i className="fab fa-sass fa-3x" style={{ color: "#c69" }}></i>
@@ -47,7 +44,7 @@ export default function Technologies() {
           <span className="faded-text">Github</span>
         </div>
         <div className="technologies__icon">
-          <i class="fab fa-node fa-3x"></i>
+          <i className="fab fa-node fa-3x"></i>
           <span className="faded-text">Node.js</span>
         </div>
         <div className="technologies__icon">
