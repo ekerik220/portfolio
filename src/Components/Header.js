@@ -15,10 +15,18 @@ export default function Header() {
           </h4>
           <h5 className="faded-text">Software engineer</h5>
           <div className="header__icons">
-            <a href="https://github.com/ekerik220" target="_blank">
+            <a
+              href="https://github.com/ekerik220"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               <i className="fab fa-github"></i>
             </a>
-            <a href="https://www.linkedin.com/in/evan-kerik/" target="_blank">
+            <a
+              href="https://www.linkedin.com/in/evan-kerik/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               <i className="fab fa-linkedin"></i>
             </a>
             <a href="mailto:ekerik220@gmail.com" target="_top">
