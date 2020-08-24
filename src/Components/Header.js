@@ -5,7 +5,7 @@ export default function Header() {
     <header className="header">
       <div className="header__content-box">
         <img
-          src={require("../imgs/portrait.jpg")}
+          src="https://res.cloudinary.com/twatter/image/upload/v1598229224/portrait_u8g0qj.jpg"
           alt="Evan"
           className="header__portrait"
         />

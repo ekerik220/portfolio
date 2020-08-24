@@ -14,7 +14,7 @@ export default function Technologies() {
         </div>
         <div className="technologies__icon">
           <i className="fab fa-css3-alt fa-3x" style={{ color: "#264de4" }}></i>
-          <span className="faded-text">CSS</span>
+          <span className="faded-text">CSS3</span>
         </div>
         <div className="technologies__icon">
           <i
@@ -36,12 +36,8 @@ export default function Technologies() {
           <span className="faded-text">TypeScript</span>
         </div>
         <div className="technologies__icon">
-          <i className="fab fa-sass fa-3x" style={{ color: "#c69" }}></i>
-          <span className="faded-text">Sass</span>
-        </div>
-        <div className="technologies__icon">
-          <i className="fab fa-github fa-3x"></i>
-          <span className="faded-text">Github</span>
+          <div className="styled-components-icon"></div>
+          <span className="faded-text">Styled Components</span>
         </div>
         <div className="technologies__icon">
           <i className="fab fa-node fa-3x"></i>
@@ -50,6 +46,10 @@ export default function Technologies() {
         <div className="technologies__icon">
           <div className="mongodb-icon"></div>
           <span className="faded-text">MongoDB</span>
+        </div>
+        <div className="technologies__icon">
+          <div className="graphql-icon"></div>
+          <span className="faded-text">GraphQL</span>
         </div>
       </div>
     </section>

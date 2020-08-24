@@ -30,6 +30,24 @@
     align-self: center;
   }
 
+  .graphql-icon {
+    background: url("https://api.iconify.design/logos:graphql.svg") no-repeat
+      center center / contain;
+    width: 4.8rem;
+    height: 4.8rem;
+    margin-bottom: 0.5rem;
+    align-self: center;
+  }
+
+  .styled-components-icon {
+    background: url("https://api.iconify.design/simple-icons:styled-components.svg")
+      no-repeat center center / contain;
+    width: 4.8rem;
+    height: 4.8rem;
+    margin-bottom: 0.5rem;
+    align-self: center;
+  }
+
   hr {
     width: 75%;
   }

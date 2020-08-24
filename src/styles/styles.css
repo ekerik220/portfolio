@@ -113,6 +113,26 @@
       align-self: center;
 }
 
+.technologies .graphql-icon {
+  background: url("https://api.iconify.design/logos:graphql.svg") no-repeat center center/contain;
+  width: 4.8rem;
+  height: 4.8rem;
+  margin-bottom: 0.5rem;
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
+}
+
+.technologies .styled-components-icon {
+  background: url("https://api.iconify.design/simple-icons:styled-components.svg") no-repeat center center/contain;
+  width: 4.8rem;
+  height: 4.8rem;
+  margin-bottom: 0.5rem;
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
+}
+
 .technologies hr {
   width: 75%;
 }
@@ -189,6 +209,7 @@
           justify-content: center;
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
+  min-height: 450px;
 }
 
 .project-tile .project-tile__img img {
